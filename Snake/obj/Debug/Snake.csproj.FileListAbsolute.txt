@@ -8,3 +8,13 @@ C:\Users\balin\OneDrive - Corvinus University of Budapest\00szofttech1\Jatek\Új
 C:\Users\balin\OneDrive - Corvinus University of Budapest\00szofttech1\Jatek\Új mappa\kigyosjatek\obj\Debug\Snake.csproj.CoreCompileInputs.cache
 C:\Users\balin\OneDrive - Corvinus University of Budapest\00szofttech1\Jatek\Új mappa\kigyosjatek\obj\Debug\kigyosjatek.exe
 C:\Users\balin\OneDrive - Corvinus University of Budapest\00szofttech1\Jatek\Új mappa\kigyosjatek\obj\Debug\kigyosjatek.pdb
+C:\Users\balin\Source\Repos\tbalint11\Kigyo\Snake\bin\Debug\kigyosjatek.exe.config
+C:\Users\balin\Source\Repos\tbalint11\Kigyo\Snake\bin\Debug\kigyosjatek.exe
+C:\Users\balin\Source\Repos\tbalint11\Kigyo\Snake\bin\Debug\kigyosjatek.pdb
+C:\Users\balin\Source\Repos\tbalint11\Kigyo\Snake\obj\Debug\Snake.csproj.AssemblyReference.cache
+C:\Users\balin\Source\Repos\tbalint11\Kigyo\Snake\obj\Debug\snake.Snake.resources
+C:\Users\balin\Source\Repos\tbalint11\Kigyo\Snake\obj\Debug\kigyosjatek.Properties.Resources.resources
+C:\Users\balin\Source\Repos\tbalint11\Kigyo\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+C:\Users\balin\Source\Repos\tbalint11\Kigyo\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\balin\Source\Repos\tbalint11\Kigyo\Snake\obj\Debug\kigyosjatek.exe
+C:\Users\balin\Source\Repos\tbalint11\Kigyo\Snake\obj\Debug\kigyosjatek.pdb
