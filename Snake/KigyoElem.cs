@@ -15,7 +15,8 @@ namespace snake
         {
             Width = meret;
             Height = meret;
-            BackColor = Color.Black;
+            // BackColor = Color.Black;
+            BackgroundImage = Image.FromFile("fej12222.png");
         }
     }
 }
