@@ -1,0 +1,19 @@
+C:\Users\Bálint Turzó\OneDrive - Corvinus University of Budapest\00szofttech1\Jatek\Új mappa\kigyosjatek\bin\Debug\kigyosjatek.exe.config
+C:\Users\Bálint Turzó\OneDrive - Corvinus University of Budapest\00szofttech1\Jatek\Új mappa\kigyosjatek\bin\Debug\kigyosjatek.exe
+C:\Users\Bálint Turzó\OneDrive - Corvinus University of Budapest\00szofttech1\Jatek\Új mappa\kigyosjatek\bin\Debug\kigyosjatek.pdb
+C:\Users\Bálint Turzó\OneDrive - Corvinus University of Budapest\00szofttech1\Jatek\Új mappa\kigyosjatek\obj\Debug\kigyosjatek.csproj.AssemblyReference.cache
+C:\Users\Bálint Turzó\OneDrive - Corvinus University of Budapest\00szofttech1\Jatek\Új mappa\kigyosjatek\obj\Debug\kigyosjatek.Properties.Resources.resources
+C:\Users\Bálint Turzó\OneDrive - Corvinus University of Budapest\00szofttech1\Jatek\Új mappa\kigyosjatek\obj\Debug\kigyosjatek.csproj.GenerateResource.cache
+C:\Users\Bálint Turzó\OneDrive - Corvinus University of Budapest\00szofttech1\Jatek\Új mappa\kigyosjatek\obj\Debug\kigyosjatek.csproj.CoreCompileInputs.cache
+C:\Users\Bálint Turzó\OneDrive - Corvinus University of Budapest\00szofttech1\Jatek\Új mappa\kigyosjatek\obj\Debug\kigyosjatek.exe
+C:\Users\Bálint Turzó\OneDrive - Corvinus University of Budapest\00szofttech1\Jatek\Új mappa\kigyosjatek\obj\Debug\kigyosjatek.pdb
+C:\Users\balin\OneDrive - Corvinus University of Budapest\00szofttech1\Jatek\Új mappa\kigyosjatek\obj\Debug\kigyosjatek.csproj.AssemblyReference.cache
+C:\Users\balin\OneDrive - Corvinus University of Budapest\00szofttech1\Jatek\Új mappa\kigyosjatek\obj\Debug\kigyosjatek.Properties.Resources.resources
+C:\Users\balin\OneDrive - Corvinus University of Budapest\00szofttech1\Jatek\Új mappa\kigyosjatek\obj\Debug\kigyosjatek.csproj.GenerateResource.cache
+C:\Users\balin\OneDrive - Corvinus University of Budapest\00szofttech1\Jatek\Új mappa\kigyosjatek\obj\Debug\kigyosjatek.csproj.CoreCompileInputs.cache
+C:\Users\balin\OneDrive - Corvinus University of Budapest\00szofttech1\Jatek\Új mappa\kigyosjatek\obj\Debug\kigyosjatek.exe
+C:\Users\balin\OneDrive - Corvinus University of Budapest\00szofttech1\Jatek\Új mappa\kigyosjatek\obj\Debug\kigyosjatek.pdb
+C:\Users\balin\OneDrive - Corvinus University of Budapest\00szofttech1\Jatek\Új mappa\kigyosjatek\bin\Debug\kigyosjatek.exe.config
+C:\Users\balin\OneDrive - Corvinus University of Budapest\00szofttech1\Jatek\Új mappa\kigyosjatek\bin\Debug\kigyosjatek.exe
+C:\Users\balin\OneDrive - Corvinus University of Budapest\00szofttech1\Jatek\Új mappa\kigyosjatek\bin\Debug\kigyosjatek.pdb
+C:\Users\balin\OneDrive - Corvinus University of Budapest\00szofttech1\Jatek\Új mappa\kigyosjatek\obj\Debug\kigyosjatek.Snake.resources
